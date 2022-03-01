@@ -1,0 +1,198 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Variety of news for all pallats, as certainties, probabilities, &amp;c.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1661</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B06411</idno>
+            <idno type="STC">Wing V111A</idno>
+            <idno type="STC">ESTC R185927</idno>
+            <idno type="EEBO-CITATION">52529060</idno>
+            <idno type="OCLC">ocm 52529060</idno>
+            <idno type="VID">179191</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B06411)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 179191)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2779:26)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Variety of news for all pallats, as certainties, probabilities, &amp;c.</title>
+                  <author>St. Serfe, Thomas, Sir, fl. 1668.</author>
+               </titleStmt>
+               <extent>7 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[Edinburgh :</pubPlace>
+                  <date>1661]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A satire.</note>
+                  <note>Caption title.</note>
+                  <note>Two items have been signed John Dow, Mackermoch, and A. W. respectively, but the whole work has been attributed to Thomas St. Serfe.</note>
+                  <note>Reproduction of the original in the National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Political satire, English --  17th century.</term>
+               <term>Great Britain --  History --  Restoration, 1660-1688 --  Humor.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-08</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-09</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2011-09</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:179191:1"/>
+            <head>
+               <hi>Variety of NEWS for all Pallats, As Certainties, Probabilities,</hi> &amp;c.</head>
+            <p>TO the firſt, There is nothing of greater truth then the bleſ<g ref="char:EOLhyphen"/>ſings that accompanies His <hi>Majeſties</hi> happy Government, have already made His Subjects in <hi>Great Britain,</hi> forget their by-paſt miſeries: And what a harmony is twixt His <hi>Majeſty</hi> and Parliament of <hi>England,</hi> you may perceive by this en<g ref="char:EOLhyphen"/>ſuing extract from the Engliſh Intelligencer.</p>
+            <div type="part">
+               <head>Weſtminſter.</head>
+               <p>His <hi>Majeſty</hi> was graciouſly pleaſed to ſend a Letter, dated the 22. inſtant to Sir <hi>Edward Turner,</hi> Speaker of the Houſe of Com<g ref="char:EOLhyphen"/>mons, to be communicated to the Houſe; wherein His <hi>Majeſty</hi> having acquainted them of the great deſigne, He formerly told them He had to make His Progreſs this Summer, to viſit <hi>Worceſter</hi> and other places to pay God thanks for His miraculous deliverances, doth withall mind them of ſome Bills which He had told them were prepared for them for confirmation of what was enacted at their laſt meeting, more particularly the high value His <hi>Majeſty</hi> had of the Act of Indempnity, for the diſpatch of which, His <hi>Majeſty</hi> aſſu<g ref="char:EOLhyphen"/>red them that could He have uſed ſtronger expreſſions for the ſpee<g ref="char:EOLhyphen"/>dy diſpatch of it, He would have done it, and that He thought what He ſaid, would have made an impreſſion in all who profeſſe a deſire to ſerve H<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m, and that He expected every day it would be preſented for another Aſſent; His <hi>Majeſty</hi> farther acquaints them, that He hath heard they have already prepared ſome good Bills (for which He heartily thanks them) ready for the Royal Aſſent, yet that He hath not a mind to paſs them, till the Act of Indempnity be likewiſe pre<g ref="char:EOLhyphen"/>ſented: upon which, His <hi>Majeſty</hi> ſaith (if they take His word) moſt of His quiet and good depends, and in which He is ſure His honour is concern'd. His <hi>Majeſty</hi> therefore again conjures them, with all earneſtneſs poſſible, to paſs the Act in the ſame termes He hath al<g ref="char:EOLhyphen"/>ready
+<pb n="2" facs="tcp:179191:2"/> paſs'd it (to which His <hi>Majeſty</hi> takes Himſelf obliged) and that they will at preſent lay aſide all private buſineſs to betake themſelves to the Publick, that they may be ready to adjourn by the middle of the next moneth.</p>
+            </div>
+            <div type="part">
+               <head>Whitehall.</head>
+               <p>His <hi>Majeſty</hi> taking ſpeciall notice of the prudent managery of affairs by <hi>Don Franciſco de Mello, Comte de Ponte,</hi> Ambaſſador extraordinary from the King of <hi>Portugall,</hi> how by his conſtant care and faithfull applications he hath not onely ſatisfied the deſires of his own Maſter the King of <hi>Portugall,</hi> who, out of a long and natu<g ref="char:EOLhyphen"/>rall affection to the Engliſh, alwayes wiſht for a nearer alliance with this Crown, but withall afforded ſuch vaſt advantages to the people of <hi>England,</hi> as could not be expected from any one Nation, beſides that incomparable bleſſing which theſe Kingdoms will enjoy, in that moſt excellent Princeſſe, <hi>Donna Katharina,</hi> the Infanta of <hi>Portugall,</hi> that ſuch faithfull and eminent ſervices for the mutuall benefit of his own and theſe Kingdomes, might not be paſs'd by without ſome ſignal mark of His <hi>Majeſties</hi> favour, was graciouſly pleaſed Himſelf to give an invitation to the Ambaſſador to dine with His Royal Perſon at <hi>Whitehall</hi> on Thurſday the 27. inſtant. And that this Royall invitation might (ar farre as could) be anſwered with a fitting ſolemnity on that day, the Right Honourable the Earle of <hi>Bedford,</hi> together with Sir <hi>Charles Cotterell</hi> Maſter of the Ceremonies to his <hi>Majeſty,</hi> went with his <hi>Majeſty's</hi> and his Royall Highneſs the Duke of <hi>York's</hi> Coaches, with ſeveral other Coaches belonging to the chiefeſt of the Nobility to the Ambaſſadors houſe, and thence conducted him with his whole Retinue to <hi>Whitehall:</hi> where being come, after the hearty ſalutes of the whole Court, the Ambaſſador was placed at the ſame Table with His <hi>Majeſty.</hi> Whileſt this high honour was given to the Ambaſſador, thoſe wor<g ref="char:EOLhyphen"/>thy Gentlemen of his Retinue were with all reſpect provided for, being treated at the Tables of <hi>James</hi> Duke of <hi>Ormond</hi> Lord Ste<g ref="char:EOLhyphen"/>ward, and <hi>Edward</hi> Earl of <hi>Mancheſter</hi> Lord Chamberlain of His <hi>Majeſtie's</hi> Houſhold.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>London, July,</hi> 2. 1661.</head>
+               <p>Yeſterday the Houſe of Commons heard witneſſe as to ſuch of the late Kings Tryers who are dead, and voted that their Eſtates ſhould be forefeited to His <hi>Majesty.</hi> The Lord <hi>Mounſon,</hi> Sir <hi>Henry Mild<g ref="char:EOLhyphen"/>may,</hi>
+                  <pb n="3" facs="tcp:179191:2"/> and Mr. <hi>Robert Wallop,</hi> were alſo brought before the Houſe of Commons upon their knees: the firſt confeſ<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ed his fault with much regrate, and pleaded that he was drawn into ſuch an horrid Act, for which he was very ſorry, and acknowledged his ſitting in the pre<g ref="char:EOLhyphen"/>tended High Court of Juſtice. Sir <hi>Henry Mildmay</hi> was ſorry for his miſguiding: but ſaid that he fell out with <hi>Cromwell</hi> about the proſecution againſt His late <hi>Majeſty,</hi> that ſome Members of the Houſe being going to Dinner, he was drawn to go into <hi>Weſtminſter-Hall,</hi> and was a Spectator, but did not vote in the Court, though his being preſent, was proved. Mr. <hi>Wallop</hi> craved pardon of the the Houſe, was ſorry that he ſhould be named in ſuch a vile Com<g ref="char:EOLhyphen"/>miſſion, but was an old frail man, and did not remember that he ſat in the pretended High Court: (it was alſo proved he was alſo pre<g ref="char:EOLhyphen"/>ſent, <hi>June</hi> 23. 1648.) Sir <hi>James Harrington</hi> appeared not, but it was proved that he ſat in the High Court of Juſtice upon the whole. The Houſe of Commons reſolved, that the Eſtates Reall and Per<g ref="char:EOLhyphen"/>ſonall of the ſaid four Perſons, ſhould be forefeited to His <hi>Ma<g ref="char:EOLhyphen"/>jeſty;</hi> that they ſhould be drawn from the Tower to <hi>Tyburne</hi> upon Hurdles with Ropes about their necks, and thence to ſeverall Priſons to remain during life.</p>
+               <p>Since my laſt, we underſtand from <hi>Dunkirk,</hi> that the Countrey have paid in their contributions to that Garriſon, notwithſtanding the orders that were alledged to be given againſt it.</p>
+            </div>
+            <div type="part">
+               <head>Probabilities.</head>
+               <p>It is twenty to one but the 75000. Florens, which the Religious Hollanders have advanced for reparation of the walls of <hi>Geneva</hi> (chance to miſcarry) if it be intruſted to ſuch Elders hands as were the contributions of the Proteſtants of <hi>Lucerna.</hi>
+               </p>
+               <p>It is probable, that the Pope may drink his <hi>Albano</hi> in ſecurity, ſince the League and Covenant, which our <hi>Levites</hi> told us ſhould have brought the Vatican about his ears, made ſo ſolemn a halt over all <hi>England</hi> on the 29. of <hi>May</hi> laſt; and its mother, the National Co<g ref="char:EOLhyphen"/>venant, had the honour to be burnt at <hi>Muſleburgh</hi> much about the ſame time, in the boſome of <hi>Beſſy Fouler,</hi> that renouned Fiſh<g ref="char:EOLhyphen"/>witch.</p>
+               <p>It is probable if <hi>Caledonius</hi> had writ in <hi>Anno</hi> 1649. the cuff of his Neck might have paſſed for Bran and his Buttocks for Bacon;
+<pb n="4" facs="tcp:179191:3"/> for his head would been as toothſome to ſome, as the foreskin of a <hi>Philiſtin</hi> was to <hi>Saul.</hi>
+               </p>
+               <p>If it be true that is reported of an Iſland, newly diſcovered, fifty Leagues to the weſt of <hi>Ireland,</hi> and that the Inhabitants be of ſo large a bulk as ten yards in length, and three of breadth; It ſeems not to be that ſo much mentioned enchanted Iſland, ſometimes ſeen on the weſt Iſles of <hi>Scotland,</hi> named in the Mapp, O <hi>Brazil,</hi> and by our Philoſophers in the <hi>Hebrides, Rockcolle:</hi> But much more probable that it muſt be ſome of the Benigne Planets, who wea<g ref="char:EOLhyphen"/>ried with the lyes and reproaches put upon it by the Aſtrologers of this World; and to confound their obſervations, the diſcreet Pla<g ref="char:EOLhyphen"/>net hath joyned her ſelf to that part of the Globe which is under the Protection of our Dread Soveraign. They report the Inhabi<g ref="char:EOLhyphen"/>tants are very wiſe and moral, and a knowledge much exceeding that of our <hi>Diſtinguiſhers;</hi> and this is the reaſon why ſome thinks it rather a Colony, ſent from the Moon to inſtruct our World of the true natural cauſes of all thoſe myſteries which raiſes ſuch heat and contention amongſt the Pedants in our Schools, ſo it is hoped if we had once communication with them, the common anſwer of <hi>Oculia qualitas,</hi> ſo much uſed by our Philoſophers in matters they do not underſtand, ſhall be quite baniſhed.</p>
+               <p>If any one now in the Dogg dayes eat immoderately of the black tailed Pouts that are catched in the <hi>Cannongate,</hi> it is probable he may purchaſe a pair of everlaſting Breeches though poſſibly the Fancies of them chance to prove expenſive.</p>
+            </div>
+            <div type="part">
+               <head>A LETTER from the Prince of <hi>Tartar</hi>'s Secretary, to the City Recorder of <hi>Cockany.</hi>
+               </head>
+               <opener>
+                  <salute>SIR,</salute>
+               </opener>
+               <p>I <hi>Shall not at this time be ſo large, as to give an account of all the adventures his Highneſs met with in traverſing the Countrey, reſerving that for a large deſcription of it ſelf: But I ſhall tell you of an accident that had almoſt ſplit my weak Noddle, if I had not been ſtrongly fortified with read Ale, Unions and Aquavitie, which I drunk at the</hi> Mure <hi>Ale-houſe, with a reduced Major of</hi> Pryds <hi>Regiment, who is very well ſa<g ref="char:EOLhyphen"/>tisfied to be Tapſter of the place.</hi>
+               </p>
+               <pb n="5" facs="tcp:179191:3"/>
+               <p>
+                  <hi>It was, Sir, at</hi> Midſummers Eve, <hi>a night when the King of</hi> Fairy <hi>and Prince of the Aire, are accuſtomed to parad towards the skirts of</hi> Glentannarwood, <hi>a ſort of ſpiritual</hi> Groteske <hi>in a brown Suit and black Buttons, flat Shoes, a tipt</hi> Virginia <hi>skulcap, with an Antipiſcopall Hat, and above 7000. Ladies and Women of all ſtations and ſizes; nay, even to the courſer ſort of Chamber-maids and Spinſters: As alſo, a conſiderable num<g ref="char:EOLhyphen"/>ber of Tradſ-men and Shop-keepers; all with melancholy aſpects, in a ſtragling diſorderly way they marched after him. By his retinue I judged him a Tinker, but he told me no, and that he was a Schoolmaſter of a Countrey Hamlet in</hi> Fife, <hi>his name was ingraven upon a Poſſet-cap in a great</hi> Golgatha; <hi>I asked if he intended for</hi> London <hi>or</hi> Edinburgh, <hi>to inherit the Benefi<g ref="char:EOLhyphen"/>ces of Parſon</hi> Pe<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ers <hi>and Mr.</hi> James Guthery, <hi>he anſwered no, his buſineſs was for</hi> America, <hi>to whom he was to addreſs himſelf to the King of</hi> Bantam, <hi>who is a</hi> Cadet <hi>of the Aethio<g ref="char:EOLhyphen"/>pian</hi> John, <hi>to whom he was to diſcover greater ſecrets of Po<g ref="char:EOLhyphen"/>licy<g ref="char:punc">▪</g> then ever have been heretofore done by</hi> Plato, Matchiavell, <hi>or</hi> Bodin; <hi>for in reſpect of him they were but Pedees, for the matter of conquering and ſubduing of Nations: The pretext of R<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ligon ſayes he, is of ſo Tiffany invention, that the people through it do ſoon diſcover the bareneſs of the Breech, that Armes again were too laſting, and after once fitted, they were loath to part with them; but the cheapeſt and ſecureſt way he affirmed, was by the mighty power of a</hi> Rogero infuriato &amp; implacabile, <hi>which he undert<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ok to prove both by Hiſtory and Tradition, was not</hi> Jupiter, <hi>ſaid he, the ſon of</hi> Saturne <hi>and King of</hi> Latium, <hi>not only a grand Conqueror, but reverenced for a god; and yet never no noiſe of his Warrs for topting the third part of the World, as Floods, Mountains, and Beaſts, and that was</hi> Europa. <hi>How do you think that I being a Bumpkin Pe<g ref="char:EOLhyphen"/>dant came by all this trayn,</hi> Mafoy Monſieur a force de bien labourer, &amp;c. <hi>There's not one of theſe poor wretches you ſee
+<pb n="6" facs="tcp:179191:4"/> here, but Ile undertake before I want the leaſt ſatisfaction of my ſenſes, but they will pawn the beſt of their moveables, nay even to their</hi> Crumbs of comfort, <hi>or Wedding ſmocks; and the only reaſon as I told you,</hi> Je me fou d'eux &amp; de toute leur famile.</p>
+               <p>
+                  <hi>This horrid Policy did highly aſtoniſh me, yet when I conſi<g ref="char:EOLhyphen"/>dered the influence ſuch Hypocritical impoſtures hath had up<g ref="char:EOLhyphen"/>on the weaker underſtandings, I thought it not ſo ſtrange. I then demanded him which way he intended to tranſport his Tribe, he replyed ſo ſoon as I once get to the weſt Coaſt of</hi> Whigmeria, <hi>I ſhall meet with ſouls ſo precious and of ſo great faith, as in two dayes time ſhall waft us to our journeys end: I wiſhed him a good voyage, and told him, if he would obliedge this Countrey that he ſhould leave none of his brethren behind; but in ſtead of a reply, I found he and all was evaniſhed, which made me con<g ref="char:EOLhyphen"/>clude, that this muſt have been the Ghoſt of ſome grand Seducer and his company, the ſouls of ſuch that dyed in his belief. You may communicat this to ſuch as can make the beſt uſe of it. In the mean time I am</hi>
+               </p>
+               <closer>
+                  <signed>Your humble Servant, John Dow, Mackermoch.</signed>
+               </closer>
+               <postscript>
+                  <head>Poſtſcript.</head>
+                  <p>
+                     <hi>Our Prince reſolves to ſojurne at</hi> Kincairn Oneil, <hi>partly to ſee the Solemnities at</hi> Bartel <hi>Fair, partly to recover a weakneſs in his back, occaſioned by the Bailies Daughter of</hi> Bervy, <hi>as ſhe was ſucking out a Corne in his great toe: the laſt Letters he had from his royal Father ſignified as much, that he had taxed his Empire for</hi> 20000. Cratſzoniskys, <hi>which in our money comes to five Merks, for the charges of his return: In the mean time he hath Bills of credit from</hi> Buckhaven <hi>to all the North<g ref="char:EOLhyphen"/>coaſt to furniſh him with all ſort of Fiſh.</hi>
+                  </p>
+               </postscript>
+            </div>
+            <div type="part">
+               <pb n="7" facs="tcp:179191:4"/>
+               <head>
+                  <hi>For my old Acquaintance,</hi> T. S.</head>
+               <opener>
+                  <salute>SIR,</salute>
+               </opener>
+               <p>SO long as you were taken up in collecting the Occurrences of the world, and expoſing them to the publick, I thought it not good manners to diſturb you; but now that I have failed ſo long, both in hearing from you, and receiving any of theſe little <hi>Memento's</hi> of you, I adventur'd this, to rid me of doubts. Is it poſſible that you have quit the pen for the Witches prine? Are all your projects in ſerving your Countrey come to exorciſme? Are your voluminous pains and ſingular contrivances regalled with Slate<g ref="char:punc">▪</g> ſtones? The fault certainly was yours, either that you had out-run your ſelf and could ſtart nothing new, or you have aſſumed too much liberty in, <hi>&amp;c.</hi> and ſo received a check; or, as I have lately heard, your Croſ-langing the Countrey, in the <hi>Great Enqui<g ref="char:EOLhyphen"/>ry,</hi> doth totally take you up. Could you have ſpared your pains, you might have found venerable ones at home, O! What a ſweet thing is it to ſuck the exhalations of ſuch a Carbanado'd one? how welcome will theſe ſouls be to your World in the Moon, while they mount enwrapt in theſe ſmoaky ſulphureous vapours of the black rock, where they are pythagorically tranſmitted as a new colony. But I hope, <hi>Thom,</hi> if you be ſo taken up in this enqueſt that you are not ſo wedded to it as you can not leave it, which I could heartily wiſh, or if it be otherwiſe that you cannot quite it <hi>brevi manu,</hi> enquire after others in the like ſin, enough unfound out ones as yet: firk me theſe tranſgreſſours who hath gold to choak you, digge in their Urnes, and rake not the calcined aſhes of that poor ſimple deluded Sex: yet when I conſider, I cannot blame you, for it is better to play at ſmall game then ſit out; and ſince you can<g ref="char:EOLhyphen"/>not acquire a fat Rebel, rather then altogether want, a lean witch will ſtill keep you in poſſeſſion of your pretence, their ſins and puniſh<g ref="char:EOLhyphen"/>ment being equal. I ſhall conclude with this, that you project how to ſtay at home, for among all your Comrades none ſhall be more deſireous of it then</p>
+               <closer>
+                  <signed>Your humble Servant. A. W.</signed>
+               </closer>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:179191:5"/>
+            <pb facs="tcp:179191:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
